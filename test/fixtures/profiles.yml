@@ -1,0 +1,29 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  distance: 1
+  sexual_preference: MyString
+  min_age: 1
+  max_age: 1
+  discovery: false
+  gender: MyString
+  work: MyString
+  school: MyString
+  about: MyText
+  first_name: MyString
+  last_name: MyString
+  age: 1
+
+two:
+  distance: 1
+  sexual_preference: MyString
+  min_age: 1
+  max_age: 1
+  discovery: false
+  gender: MyString
+  work: MyString
+  school: MyString
+  about: MyText
+  first_name: MyString
+  last_name: MyString
+  age: 1
